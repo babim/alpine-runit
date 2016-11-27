@@ -1,4 +1,4 @@
-FROM babim/alpinebase
+FROM babim/alpinebase:edge
 
 ADD start_runit /runit
 RUN 	mkdir /etc/container_environment &&\
