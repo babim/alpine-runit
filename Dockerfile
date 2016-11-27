@@ -1,4 +1,4 @@
-FROM babim/alpinebase:edge
+FROM babim/alpinebase
 
 ADD start_runit /runit
 ADD runssh.sh /etc/runit_init.d/50runssh.sh
