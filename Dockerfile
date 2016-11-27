@@ -1,4 +1,4 @@
-FROM babim/alpinebase
+FROM babim/alpinebase:edge
 
 ADD start_runit /runit
 ADD runssh.sh /runssh.sh
