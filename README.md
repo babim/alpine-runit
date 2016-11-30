@@ -1,3 +1,9 @@
+[![](https://images.microbadger.com/badges/image/babim/alpineinit.svg)](https://microbadger.com/images/babim/alpineinit "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/babim/alpineinit.svg)](https://microbadger.com/images/babim/alpineinit "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/babim/alpineinit:ssh.svg)](https://microbadger.com/images/babim/alpineinit:ssh "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/babim/alpineinit:ssh.svg)](https://microbadger.com/images/babim/alpineinit:ssh "Get your own version badge on microbadger.com")
+
+[![](https://images.microbadger.com/badges/image/babim/alpineinit:edge.svg)](https://microbadger.com/images/babim/alpineinit:edge "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/babim/alpineinit:edge.svg)](https://microbadger.com/images/babim/alpineinit:edge "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/babim/alpineinit:edge.ssh.svg)](https://microbadger.com/images/babim/alpineinit:edge.ssh "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/babim/alpineinit:edge.ssh.svg)](https://microbadger.com/images/babim/alpineinit:edge.ssh "Get your own version badge on microbadger.com")
+
 # This is a somewhat minimal image to use for your containers.
 thanks faisyl
 
